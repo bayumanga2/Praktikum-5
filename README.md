@@ -9,6 +9,6 @@
 ![Screenshot (61)](https://user-images.githubusercontent.com/56962466/70344846-3f51c400-188d-11ea-9f5e-986b864b25a1.png)
 </br>Lanjut menjalankan perintah cari.
 ![Screenshot (62)](https://user-images.githubusercontent.com/56962466/70344924-65776400-188d-11ea-8cb5-0b8660c57f53.png)
-#Berikut FLOWCHART nya.
+# Berikut FLOWCHART nya.
 [praktikum 05.pdf](https://github.com/bayumanga2/Praktikum-5/files/3933407/praktikum.05.pdf)
-#Sekian dan terima kasih
+# Sekian dan terima kasih
