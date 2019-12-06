@@ -1,5 +1,5 @@
 # Praktikum-5
-#Menggunakan dictionari untuk menu pilihan:Tambah Data,Ubah Data,Habpu Data,Tampilkan Data,Cari Data
+# Menggunakan dictionari untuk menu pilihan:Tambah Data,Ubah Data,Habpu Data,Tampilkan Data,Cari Data
 </br>ketik program sebagai berikut.
 ![Screenshot (58)](https://user-images.githubusercontent.com/56962466/70344500-77a4d280-188c-11ea-9044-429a5d937d37.png)
 ![Screenshot (59)](https://user-images.githubusercontent.com/56962466/70344576-9c994580-188c-11ea-9d51-f4225f62a051.png)
